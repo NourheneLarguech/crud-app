@@ -28,18 +28,6 @@
       "experience": "3",
       "package": "2",
       "id": 1
-    },
-    {
-      "firstName": "Nourhene",
-      "lastName": "Larguech",
-      "email": "nourhene.larguech@ensi-uma.tn",
-      "dob": "2023-05-17T23:00:00.000Z",
-      "gender": "",
-      "education": "Diploma",
-      "company": "googl",
-      "experience": "8",
-      "package": "15",
-      "id": 2
     }
   ]
 }
